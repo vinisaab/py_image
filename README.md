@@ -1,2 +1,2 @@
 # py_image
-automate image editor in Python
+automate image edition in Python
